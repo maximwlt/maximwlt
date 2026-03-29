@@ -6,11 +6,6 @@ My main interests lie in full-stack development, with a focus on web security an
 I enjoy applying the principles and guidelines of [OWASP 🛡️](https://owasp.org/) and continuously improving my understanding of secure software design.
 <br>
 
-<div style="display:inline-block; background-color:white; padding:6px 10px; border-radius:8px;">
-  <img src="https://owasp.org/assets/images/owasp_logo_black.svg" height="28"/>
-</div>
-
-
 ---
 
 # Tech Stack
