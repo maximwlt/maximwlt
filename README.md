@@ -1,9 +1,9 @@
 # About Me
 Hi, I'm **Maxim Walter**! <br>
-I live in Germany and currently study **Computer Science** at the Technische Hochschule Mittelhessen in Gießen.
+I live in Germany and currently study **Computer Science** at the [Technische Hochschule Mittelhessen](https://www.thm.de/site/) in Gießen.
 
 My main interests lie in full-stack development, with a focus on web security and building secure applications.<br>
-I enjoy applying the principles and guidelines of OWASP and continuously improving my understanding of secure software design.
+I enjoy applying the principles and guidelines of (OWASP 🛡️](https://owasp.org/) and continuously improving my understanding of secure software design.
 <br>
 
 <div style="display:inline-block; background-color:white; padding:6px 10px; border-radius:8px;">
